@@ -1,0 +1,4 @@
+application/files/cache/*
+application/files/tmp/*
+application/files/trash/*
+.htaccess
